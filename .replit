@@ -1,0 +1,2 @@
+rinkeby falanguage = "nodejs"
+run = "yarn && yarn start"
